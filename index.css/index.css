@@ -1,0 +1,9 @@
+.header{
+    color:azure;
+             background-color:rgb(230, 79, 19);
+             border-color:rgb(70, 12, 244);
+             width: 15%;
+             text-align: center;
+             border: radius 50px; 
+             margin: 10px;
+}
